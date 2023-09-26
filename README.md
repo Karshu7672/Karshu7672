@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Karishma Shaik
+- I Am from Anantapur Andhra Pradesh.I have done my master's degree in Computer Applications from Sri Balaji PG College(MCA),Anantapur.
 - 👀 I’m interested in learning Technical skills and more excited to do new creatures
 - 🌱 I’m currently learning MERN stack development to build and deploy the attractive websites and web applications.
 - 💞️ I’m looking to collaborate in a well reputated Company as a Frontend developer, backend developer, Full stack developer and python developer
